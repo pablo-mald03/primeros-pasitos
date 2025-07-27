@@ -1,5 +1,5 @@
 nombre = "Juanito" 
-apellido = "Perez"
+apellido = "Juarez"
 
 mensaje = "Me gusta jugar pelota "
 
