@@ -1,4 +1,6 @@
 nombre = "Juanito" 
 apellido = "Perez"
 
-print("Hola " + nombre + " " + apellido); 
+mensaje = "Me gusta jugar pelota "
+
+print("Hola " + nombre + " " + apellido+ " " + mensaje); 
